@@ -5,3 +5,7 @@
  * 2. create a router use createBrowserRouter
  * 3. Add router provider and pass router props 
  
+## route smoothly and fixed reload problem make spa- single page application follow ruls
+ 
+* dont use <a href=""> tag .
+* use <Link to=''> tag . link tag solve reload problem
